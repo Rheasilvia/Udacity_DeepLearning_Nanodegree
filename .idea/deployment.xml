@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="remote" createEmptyFolders="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mj@192.168.1.15:22" createEmptyFolders="true">
     <serverData>
-      <paths name="remote">
+      <paths name="mj@192.168.1.15:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/Documents/github/Udaicty_DeepLearning_Nanodegree" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/pycharm_project_586" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
