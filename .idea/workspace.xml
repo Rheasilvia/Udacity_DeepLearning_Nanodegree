@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c20078e9-cb48-424c-8e49-f8236cee4350" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/tensorflow_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_layer_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_maxpool_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +17,41 @@
     <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$mini_batch.coverage" NAME="mini-batch Coverage Results" MODIFIED="1523796886920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课程7：tensorflow" />
     <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$dropout.coverage" NAME="dropout Coverage Results" MODIFIED="1523806164574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课程7：tensorflow" />
     <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$tf_MNIST.coverage" NAME="tf_MNIST Coverage Results" MODIFIED="1523802739446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课程7：tensorflow" />
-    <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$tensorflow_mnist.coverage" NAME="tensorflow_mnist Coverage Results" MODIFIED="1524389859056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络" />
+    <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$cnn_layer_test.coverage" NAME="cnn_layer_test Coverage Results" MODIFIED="1524393202928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络" />
+    <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$tensorflow_mnist.coverage" NAME="tensorflow_mnist Coverage Results" MODIFIED="1524393184719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络" />
     <SUITE FILE_PATH="coverage/Udacity_DeepLearning_Nanodegree$save_tensor_model.coverage" NAME="save_tensor_model Coverage Results" MODIFIED="1523804928950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/课程7：tensorflow" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tensorflow_mnist.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tensorflow_mnist.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/tensorflow_mnist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            <state relative-caret-position="227">
+              <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn_layer_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_layer_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" selection-start-line="16" selection-end-line="20" />
+              <folding>
+                <element signature="e#102#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn_maxpool_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_maxpool_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#106#129#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +66,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>y</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,6 +82,8 @@
         <option value="$PROJECT_DIR$/课程7：tensorflow/save_tensor_model.py" />
         <option value="$PROJECT_DIR$/课程7：tensorflow/dropout.py" />
         <option value="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/tensorflow_mnist.py" />
+        <option value="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_layer_test.py" />
+        <option value="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_maxpool_test.py" />
       </list>
     </option>
   </component>
@@ -122,7 +155,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_mnist">
+  <component name="RunManager" selected="Python.cnn_layer_test">
+    <configuration name="cnn_layer_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Udacity_DeepLearning_Nanodegree" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_layer_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="dropout" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Udacity_DeepLearning_Nanodegree" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,9 +236,11 @@
       <item itemvalue="Python.save_tensor_model" />
       <item itemvalue="Python.dropout" />
       <item itemvalue="Python.tensorflow_mnist" />
+      <item itemvalue="Python.cnn_layer_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cnn_layer_test" />
         <item itemvalue="Python.tensorflow_mnist" />
         <item itemvalue="Python.dropout" />
         <item itemvalue="Python.save_tensor_model" />
@@ -214,11 +268,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50361943" side_tool="true" weight="0.3295562" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="8" sideWeight="0.49638057" weight="0.32859078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923368" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27360776" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32859078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27360776" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -265,8 +319,28 @@
     <entry file="file://$PROJECT_DIR$/课程7：tensorflow/dropout.py" />
     <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/tensorflow_mnist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        <state relative-caret-position="227">
+          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_layer_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="20" />
+          <folding>
+            <element signature="e#102#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/卷积神经网络/课程2：keras实现卷积神经网络/cnn_maxpool_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#106#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
